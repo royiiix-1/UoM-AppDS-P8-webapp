@@ -1,0 +1,21 @@
+{
+  "name": "simple-chatbot",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.14.0",
+  "author": "Dinghua",
+  "description": "First Test of AI Chatbot",
+  "copyright": "",
+  "license": "",
+  "properties": {
+    "hasConfig": false,
+    "hasSettingPage": false
+  },
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 350,
+    "height": 500
+  }
+}
