@@ -1,0 +1,21 @@
+{
+  "name": "test-chatbot",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.14.0",
+  "author": "Dinghua",
+  "description": "Test version of the AI Chatbot with Cloudflare API proxy",
+  "copyright": "",
+  "license": "",
+  "properties": {
+    "hasConfig": false,
+    "hasSettingPage": false
+  },
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 350,
+    "height": 500
+  }
+}
